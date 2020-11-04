@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\EDUgi\Projetos\crud_mysq_blazor\blazor-mysql\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\EDUgi\Projetos\crud_mysq_blazor\blazor-mysql\Client\bin\Debug\netstandard2.1\wwwroot\" />
+</StaticWebAssets>

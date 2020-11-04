@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\EDUgi\\Projetos\\crud_mysq_blazor\\blazor-mysql\\Shared\\blazor-mysql.Shared.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\EDUgi\\Projetos\\crud_mysq_blazor\\blazor-mysql\\Shared\\blazor-mysql.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EDUgi\\Projetos\\crud_mysq_blazor\\blazor-mysql\\Shared\\blazor-mysql.Shared.csproj",
+        "projectName": "blazor-mysql.Shared",
+        "projectPath": "C:\\Users\\EDUgi\\Projetos\\crud_mysq_blazor\\blazor-mysql\\Shared\\blazor-mysql.Shared.csproj",
+        "packagesPath": "C:\\Users\\EDUgi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EDUgi\\Projetos\\crud_mysq_blazor\\blazor-mysql\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EDUgi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.DataAnnotations.Validation": {
+              "target": "Package",
+              "version": "[3.2.0-rc1.20223.4, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0-rc.1.20451.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
